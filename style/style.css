@@ -65,3 +65,32 @@ nav {
   font-weight: bold;
   cursor: pointer;
 }
+.snd-part{
+width:1140px;
+height: 328px;
+display: flex;
+justify-content: space-between;
+    margin: 116px 159px 814px 141px;
+    align-items: center;
+
+
+}
+.para-2{
+
+    font-weight: bold;
+    font-size: 42px;
+}
+.btn3{
+
+width: 229px;
+height: 28px;
+background-color: blue;
+color: white;
+border-radius: 10px;
+font-weight: bold;
+}
+p{
+
+font-size: 24px;
+font-weight: normal;
+}
