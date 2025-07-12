@@ -4,7 +4,9 @@
 }
 
 
-
+*{
+    margin: 0px;
+}
 
 .main-container {
   width: 1140px;
@@ -220,7 +222,13 @@ nav {
     padding: 71px 0px 20px 0px;
 }
 
-
+.footer-wrapper {
+  background-color: whitesmoke;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 .from-broader {
   width: 1140px;
@@ -332,4 +340,3 @@ nav {
     color: #8987A1;
     margin-bottom: 20px;
 }
-
