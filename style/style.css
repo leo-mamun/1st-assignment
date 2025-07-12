@@ -105,7 +105,7 @@ nav {
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 50px;
-  color: #;
+ 
 }
 
 .star-content {
@@ -298,43 +298,38 @@ nav {
 }
 
 
-.footer-part {
-  width: 100%;
-  background-color:skyblue;
-  padding: 60px ;
-  text-align: center;
+.footer-part{
+    width: 1480px;
+    height: 428px;
+    justify-items: center;
+    align-content: center;
 }
 
-.footer {
-  max-width: 700px;
-  margin: 0 auto;
+.footer{
+    width: 531px;
+    height: 221px;
+    justify-items: center;
+    text-align: center;
+    
+}
+.options ul{
+    display: flex;
+    gap:40px;
+    list-style: none;
+    text-align: center;
+}
+.options ul a{
+    text-decoration: none;
 }
 
-.logo {
-  font-size: 64px;
-  font-weight: 800;
-  color: blue;
-  margin-bottom: 16px;
+.logo{
+    font-size: 100px;
+    font-weight: 800;
+    color: blue;
+    margin-bottom: 8px;
 }
-
-.logo-description {
-  color: #8987A1;
-  margin-bottom: 20px;
-  font-size: 16px;
-  height:48px;
-}
-
-.options ul {
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-  list-style: none;
-
-}
-
-.options ul a {
-  text-decoration: none;
-  color:#8987A1;
-  font-weight: 500;
+.logo-description{
+    color: #8987A1;
+    margin-bottom: 20px;
 }
 
